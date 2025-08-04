@@ -13,8 +13,8 @@ In addition to price dynamics, the project also explores the volume and frequenc
 ## Tools & Technologies Used
 
 * Python
-* `pandas` for data manipulation
-* `matplotlib & `seaborn for data visualization
+* Pandas` for data manipulation
+* Matplotlib & Seaborn for data visualization
 * Spider as the development environment
   
 Przykładowe wykresy
