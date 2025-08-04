@@ -7,6 +7,7 @@ The goal of this project is to analyze the pricing patterns of domestic flights 
 * Departure and arrival times
 * Source and destination cities
 * Booking lead time (days left before departure)
+
 In addition to price dynamics, the project also explores the volume and frequency of flights to highlight the most active airlines, popular routes, and busiest cities.
 
 Przykładowe wykresy
