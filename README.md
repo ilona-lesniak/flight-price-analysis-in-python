@@ -2,7 +2,7 @@
 
 Opis projektu
 
-Przykładowe wykresy (jeśli chcesz dodać)
+Przykładowe wykresy
 
 Instrukcję instalacji
 
