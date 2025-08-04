@@ -13,8 +13,6 @@ In addition to price dynamics, the project also explores the volume and frequenc
 ### Sample visualizations from the project
  <img src="https://github.com/ilona-lesniak/flight-price-analysis-in-python/blob/main/Screenshots/Plot_8.png" class="center">
 
- <img src="https://github.com/ilona-lesniak/flight-price-analysis-in-python/blob/main/Screenshots/Plot_10.png" class="center">
-
 ## Tools & Technologies Used
 
 * Python 3.8+ – core programming language for data analysis
@@ -24,6 +22,11 @@ In addition to price dynamics, the project also explores the volume and frequenc
 * Seaborn – advanced statistical visualizations with beautiful styling
 * Spyder (Anaconda) – IDE used for scripting and data analysis
  
+## Data Source
+The data used in this project comes from the website Keggle
+```
+https://www.kaggle.com
+```
 
 Instrukcję instalacji
 
