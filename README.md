@@ -10,6 +10,11 @@ The goal of this project is to analyze the pricing patterns of domestic flights 
 
 In addition to price dynamics, the project also explores the volume and frequency of flights to highlight the most active airlines, popular routes, and busiest cities.
 
+### Sample visualizations from the project
+ <img src="https://github.com/ilona-lesniak/flight-price-analysis-in-python/blob/main/Screenshots/Plot_8.png" class="center">
+
+ <img src="https://github.com/ilona-lesniak/flight-price-analysis-in-python/blob/main/Screenshots/Plot_10.png" class="center">
+
 ## Tools & Technologies Used
 
 * Python
@@ -17,9 +22,7 @@ In addition to price dynamics, the project also explores the volume and frequenc
 * Matplotlib & Seaborn for data visualization
 * Spider as the development environment
 
-
- -------
- <img src="https://github.dev/ilona-lesniak/flight-price-analysis-in-python/blob/main/Screenshots/Plot_2.png" class="center">
+ 
 Przykładowe wykresy
 
 Instrukcję instalacji
