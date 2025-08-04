@@ -16,7 +16,10 @@ In addition to price dynamics, the project also explores the volume and frequenc
 * Pandas for data manipulation
 * Matplotlib & Seaborn for data visualization
 * Spider as the development environment
-  
+
+
+ -------
+ <img src="https://github.dev/ilona-lesniak/flight-price-analysis-in-python/blob/main/Screenshots/Plot_2.png" class="center">
 Przykładowe wykresy
 
 Instrukcję instalacji
