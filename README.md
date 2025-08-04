@@ -17,13 +17,13 @@ In addition to price dynamics, the project also explores the volume and frequenc
 
 ## Tools & Technologies Used
 
-* Python
-* Pandas for data manipulation
-* Matplotlib & Seaborn for data visualization
-* Spider as the development environment
-
+* Python 3.8+ – core programming language for data analysis
+* Pandas – data manipulation and cleaning
+* NumPy – numerical operations
+* Matplotlib – data visualization (plots, bar charts, pie charts)
+* Seaborn – advanced statistical visualizations with beautiful styling
+* Spyder (Anaconda) – IDE used for scripting and data analysis
  
-Przykładowe wykresy
 
 Instrukcję instalacji
 
