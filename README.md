@@ -27,8 +27,11 @@ The data used in this project comes from the website Keggle
 ```
 https://www.kaggle.com
 ```
-
-Instrukcję instalacji
+## Setup
+You'll want to download all of this code locally. The easiest way to do that is cloning the repo.
+```
+$ git clone https://github.com/ilona-lesniak/flight-price-analysis-in-python.git
+```
 
 Instrukcję uruchomienia
 
