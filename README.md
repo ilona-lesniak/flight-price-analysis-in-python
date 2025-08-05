@@ -32,8 +32,12 @@ You'll want to download all of this code locally. The easiest way to do that is 
 ```
 $ git clone https://github.com/ilona-lesniak/flight-price-analysis-in-python.git
 ```
-
-Instrukcję uruchomienia
-
+If you have any trouble doing this, you can download the zip folder of this repo and then extract the files to a local file. Once you have all the files cloned locally, you should make sure you have all the necessary libraries installed.
+```
+$ pip install pandas 
+$ pip install numpy 
+$ pip install matplotlib
+$ pip install seaborn
+```
 ## LICENSE
 [MIT LICENSE](./LICENSE)
