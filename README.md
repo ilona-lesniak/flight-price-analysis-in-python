@@ -32,4 +32,5 @@ Instrukcję instalacji
 
 Instrukcję uruchomienia
 
-Autor i licencja
+## LICENSE
+[MIT LICENSE](./LICENSE)
