@@ -13,6 +13,8 @@ In addition to price dynamics, the project also explores the volume and frequenc
 ### Sample visualizations from the project
  <img src="https://github.com/ilona-lesniak/flight-price-analysis-in-python/blob/main/Screenshots/Plot_8.png" class="center">
 
+ <img src="https://github.com/ilona-lesniak/flight-price-analysis-in-python/blob/main/Screenshots/Plot_9.png" class="center">
+ 
 ## Tools & Technologies Used
 
 * Python 3.8+ – core programming language for data analysis
