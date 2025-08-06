@@ -41,5 +41,5 @@ $ pip install numpy
 $ pip install matplotlib
 $ pip install seaborn
 ```
-## LICENSE
+## Licence
 [MIT LICENSE](./LICENSE)
